@@ -1,1 +1,6 @@
 one
+<<<<<<< HEAD
+test true merge step two
+=======
+test true merge step one 
+>>>>>>> location
